@@ -83,16 +83,3 @@ Kendi laboratuvarınızı kurup saldırı yaparak analiz yapabileceğiniz açık
 + [3xg3lin Blog](https://3xg3lin.github.io/)
 + [YouTube Video](https://www.youtube.com/watch?v=rRaMjv3uu6Q)
 
-## **Sertifikalar**
-
-+ Blue Team Level 1 (BTL1)
-+ HTB Certified Defensive Security Analyst (HTB CDSA)
-+ Certified CyberDefender (CCD)
-+ Blue Team & SOC Analyst Certification
-+ Certified Security Operations Manager (CSOM)
-+ GIAC Security Operations Manager Certification (GSOM)
-+ CompTIA CySA+
-+ IBM Certified Analyst - Security QRadar SIEM V7.5
-+ SOC-200: Foundational Security Operations and Defensive Analysis
-+ SOCAnalyst (ICSA)
-+ CERTIFIED SOC ANALYST (C|SA) CERTIFICATION
