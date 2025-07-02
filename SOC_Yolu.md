@@ -79,7 +79,6 @@ Kendi laboratuvarınızı kurup saldırı yaparak analiz yapabileceğiniz açık
 + [ManageEngine - Logon Types](https://www.manageengine.com/products/active-directory-audit/learn/what-are-logon-types.html)
 + [CyberExam](https://cyberexam.io/)
 + [OnlyF8 DFIR101](https://onlyf8.com/DFIR101-1.-b%C3%B6l%C3%BCm)
-+ [Hide01](https://hide01.ir/) (Sanal makinede bakmanız önerilir) (Sanal makinede bakmanız önerilir)
 + [3xg3lin Blog](https://3xg3lin.github.io/)
 + [YouTube Video](https://www.youtube.com/watch?v=rRaMjv3uu6Q)
 
